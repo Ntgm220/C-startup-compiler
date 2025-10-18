@@ -1,0 +1,17 @@
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\bin\Debug\net9.0\lang.exe
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\bin\Debug\net9.0\lang.deps.json
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\bin\Debug\net9.0\lang.runtimeconfig.json
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\bin\Debug\net9.0\lang.dll
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\bin\Debug\net9.0\lang.pdb
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\bin\Debug\net9.0\Antlr4.Runtime.Standard.dll
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\lang.csproj.AssemblyReference.cache
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\lang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\lang.AssemblyInfoInputs.cache
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\lang.AssemblyInfo.cs
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\lang.csproj.CoreCompileInputs.cache
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\lang.csproj.Up2Date
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\lang.dll
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\refint\lang.dll
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\lang.pdb
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\lang.genruntimeconfig.cache
+C:\Users\Noctu\OneDrive\Escritorio\Lang\lang\obj\Debug\net9.0\ref\lang.dll

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Antlr4.Runtime.Standard" Version="4.13.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+  <!-- Equivalente a -Dlanguage=CSharp -no-listener -visitor -->
+    <Antlr4 Include="RedLangLexer.g4" TargetLanguage="CSharp" Listener="false" Visitor="true" />
+    <Antlr4 Include="RedLang.g4"     TargetLanguage="CSharp" Listener="false" Visitor="true" />
+  </ItemGroup>
+
+</Project>

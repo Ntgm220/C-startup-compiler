@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBDhNoGSB+0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noctu\\OneDrive\\Escritorio\\Lang\\lang\\lang.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noctu\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
